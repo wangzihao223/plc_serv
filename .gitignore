@@ -1,0 +1,5 @@
+/_build/
+/deps/
+/priv/plc_port
+/plc_devices.term
+/plc_devices.term.tmp.*
